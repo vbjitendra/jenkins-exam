@@ -11,6 +11,7 @@ CONTENTS OF THIS FILE
 
 
 ABOUT DRUPAL
+THIS IS A NEW COMMENT TEST
 ------------
 
 Drupal is an open source content management platform supporting a variety of
